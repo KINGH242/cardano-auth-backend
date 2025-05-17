@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.10"
 flask = "^3.0.2"
 pycardano = {git = "ssh://git@github.com/Python-Cardano/pycardano.git"}
-flask-cors = "^4.0.0"
+flask-cors = "^6.0.0"
 pycose = "^1.1.0"
 pydantic = "^2.6.4"
 
